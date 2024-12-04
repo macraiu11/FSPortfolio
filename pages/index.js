@@ -1,8 +1,8 @@
 // import { HelloWorld } from '@shared/components/HelloWorld';
-import Home from './Home.js';
+import Homepage from './Home.js';
 
 const HomePage = () => {
-  return <Home />;
+  return <Homepage />;
 };
 
 export default HomePage;
